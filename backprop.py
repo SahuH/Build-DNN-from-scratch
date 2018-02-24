@@ -6,7 +6,7 @@ dependencies: pip install python-mnist
 			  pip install matplotlib
 			  pip install numpy
 			  
-Authors: Siddharth Agrawal, Vikas Deep, Harsh Sahu
+Authors: Harsh Sahu, Siddharth Agrawal, Vikas Deep
 learning rate required with cross-entropy almost one-tenth of that with MSE.
 '''
 
