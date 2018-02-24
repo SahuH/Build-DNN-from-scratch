@@ -4,7 +4,7 @@ This is an implementation of a fully connected feedforward Neural Network from s
 # Dependencies
 * Python-mnist
 * Numpy
-* Matplotlib
-Install missing depeendencies using [pip](https://pip.pypa.io/en/stable/)
+* Matplotlib  
+Install missing dependencies using [pip](https://pip.pypa.io/en/stable/)
 # Usage
-Download MNIST dataset [here](http://yann.lecun.com/exdb/mnist/). Put all downloaded files in the same folder as code. Create a folder 'plots' within the same folder. Run the code by typing 'python backprop.py' in terminal
+Download MNIST dataset [here](http://yann.lecun.com/exdb/mnist/). Put all downloaded files in the same folder as code. Create a folder 'plots' within the same folder. Run the code by typing 'python backprop.py' in terminal.
